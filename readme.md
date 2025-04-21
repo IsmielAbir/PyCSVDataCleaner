@@ -1,8 +1,8 @@
 # PyCSVDataCleaner
 
-![PyPI](https://img.shields.io/pypi/v/PyCSVDataCleaner)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/PyCSVDataCleaner)
-![Python Version](https://img.shields.io/pypi/pyversions/PyCSVDataCleaner)
+[![PyPI](https://img.shields.io/pypi/v/PyCSVDataCleaner)](https://pypi.org/project/PyCSVDataCleaner/)
+[![Python Version](https://img.shields.io/pypi/pyversions/PyCSVDataCleaner)](https://pypi.org/project/PyCSVDataCleaner/)
+
 
 **PyCSVDataCleaner** is a simple Python package designed to clean CSV files. It helps you preprocess your data by:
 - Removing duplicate rows
